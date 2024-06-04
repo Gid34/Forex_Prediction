@@ -1,6 +1,6 @@
-import yfinance as yfinance
-import streamlit as streamlit
-import pandas as pandas
+import yfinance as yf
+import streamlit as st
+import pandas as pd
 
 
 st.write(
